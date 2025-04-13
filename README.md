@@ -30,7 +30,7 @@ AI/LLM Backend: Supports RAG for document-based answering
 Frontend: Built for accessibility and simplicity
 
 - 📹 Watch the demo 🎥: (https://youtu.be/L_ZRZMtBzps)
-- Devpost Submittion: https://devpost.com/software/navigator-mou4t5
+- Devpost: https://devpost.com/software/navigator-mou4t5
 
 Team Members and Roles:
 
