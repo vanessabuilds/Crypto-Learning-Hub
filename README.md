@@ -35,13 +35,13 @@ Frontend: Built for accessibility and simplicity
 Team Members and Roles:
 
 - Vanessa Saunders (Project Manager):
-Coordinates project timelines and team collaboration, prepares project documentation .
+Coordinated project timelines and team collaboration, prepares project documentation.
 
 - Dantee Fluellen (Lead Developer):
-Develops the AI integration and voice synthesis features.
+Developed the AI integration and voice synthesis features.
 
 - Inam ul Rehman (AI Developer):
-Design AI automation for use cases.
+Designed AI automation for use cases.
 
 - Misty Waters (UX/UI Designer):
-Designs the user interface and ensures a seamless user experience.
+Designed the user interface and ensures a seamless user experience.
