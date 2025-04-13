@@ -31,5 +31,5 @@ AI/LLM Backend: Supports RAG for document-based answering
 
 Frontend: Built for accessibility and simplicity
 
-📹 Demo
-🎥 Watch the demo: (https://youtu.be/L_ZRZMtBzps)
+- 📹 Demo
+- 🎥 Watch the demo: (https://youtu.be/L_ZRZMtBzps)
