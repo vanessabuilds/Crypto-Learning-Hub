@@ -34,7 +34,7 @@ Frontend: Built for accessibility and simplicity
 
 Team Members and Roles:
 
-- Vanessa Saunders (Project Manager):
+- Vanessa Saunders (IT Project Manager):
 Coordinated project timelines and team collaboration, prepares project documentation.
 
 - Dantee Fluellen (Lead Developer):
