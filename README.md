@@ -30,3 +30,18 @@ AI/LLM Backend: Supports RAG for document-based answering
 Frontend: Built for accessibility and simplicity
 
 - 📹 Watch the demo 🎥: (https://youtu.be/L_ZRZMtBzps)
+- Devpost Submittion: https://devpost.com/software/navigator-mou4t5
+
+Team Members and Roles:
+
+- Vanessa Saunders (Project Manager):
+Coordinates project timelines and team collaboration, prepares project documentation .
+
+- Dantee Fluellen (Lead Developer):
+Develops the AI integration and voice synthesis features.
+
+- Inam ul Rehman (AI Developer):
+Design AI automation for use cases.
+
+- Misty Waters (UX/UI Designer):
+Designs the user interface and ensures a seamless user experience.
