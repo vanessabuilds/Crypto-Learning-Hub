@@ -16,11 +16,9 @@ The application is deployed via Vercel, providing a clean and responsive fronten
 🌐 Frontend Deployment via Vercel – Fast, modern, and accessible from any device.
 
 👥 Team Role & Contributions
-IT Project Manager: Oversaw development milestones, ensured delivery timelines, and coordinated the integration of tools.
-
-Marketing & Demo Creation: Produced the official demo video, helping translate technical features into user-friendly language.
-
-Content & RAG Assistance: Helped identify and organize relevant crypto documentation for effective RAG implementation.
+- IT Project Manager: Oversaw development milestones, ensured delivery timelines, and coordinated the integration of tools.
+- Marketing & Demo Creation: Produced the official demo video, helping translate technical features into user-friendly language.
+- Content & RAG Assistance: Helped identify and organize relevant crypto documentation for effective RAG implementation.
 
 🚀 Tech Stack
 Voice Assistant: ElevenLabs Voice Agent
